@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document*/
+/*Define the body element's color*/
+
+body{
+	text-align: center;
+	font-family: helvetica;
+	background-color: #fefefe;
+}
+
+#content {
+	width: 500px;
+	margin: auto;
+	position:relative;
+	text-align: left;
+}
