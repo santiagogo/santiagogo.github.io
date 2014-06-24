@@ -9,7 +9,8 @@ body{
 }
 
 #content {
-	width: 500px;
+	min-width: 20em;
+	max-width: 30em;
 	margin: auto;
 	position:relative;
 	text-align: left;
