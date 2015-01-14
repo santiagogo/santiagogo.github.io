@@ -8,6 +8,26 @@ body{
 	background-color: #fefefe;
 }
 
+/* unvisited link */
+a:link {
+    color: #FF0000;
+}
+
+/* visited link */
+a:visited {
+    color: #00FF00;
+}
+
+/* mouse over link */
+a:hover {
+    color: #000000;
+}
+
+/* selected link */
+a:active {
+    color: #000000;
+}
+
 #content {
 	min-width: 20em;
 	max-width: 30em;
